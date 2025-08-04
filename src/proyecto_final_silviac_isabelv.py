@@ -25,9 +25,7 @@ df_temp = pd.read_csv(temp)
 
 #-- ddff..iinnffoo(())
 #print(f'La información de precipitación es:{df_precip.info()}')
-#print(f'La información de temperaura es:{df_temp.info()}')
-#-- ddff..ddeessccrriibbee(())
-#-- ddff..sshhaappee
+#print(f'La información de temperaura es:{df_temp.info()}
 #
 
 #Se implementa la aplicación de la función df.describe
